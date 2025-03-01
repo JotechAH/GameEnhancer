@@ -28,4 +28,4 @@ For parties with more than four players, this feature adds four additional glows
 # Installation
 
 # Patch Notes
-- **V0.0.6**
+- [**V0.0.6**](https://github.com/JotechAH/GameEnhancer/releases/tag/v0.0.6)

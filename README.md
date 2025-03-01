@@ -1,4 +1,5 @@
-# Labyrinthine Game Enhancer MOD
+# 
+![image](https://github.com/user-attachments/assets/1a1bcd22-77db-49d3-98e7-69d44a1980b0)
 
 # Features (ETA: 3/1/25)
 - Cosmetic Finder

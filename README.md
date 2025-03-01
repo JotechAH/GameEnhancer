@@ -5,6 +5,7 @@
 - Game Summary
 - Map Enhancer
 - Glowsticks Enhancer
+- Mod Update Detector
 
 # Cosmetic Finder
 ![image](https://github.com/user-attachments/assets/5cd556c6-c68a-4733-86e0-2daa7e97dcf6)

@@ -27,6 +27,9 @@ For parties with more than four players, this feature adds four additional glows
 ⚠️However, if you're hosting a game, all players joining the session must also have the mod installed. Otherwise, when using one of the new glowstick colors, players without the mod will be kicked from the game.⚠️
 
 # Installation
+- Download **[MelonLoader]**(https://github.com/LavaGang/MelonLoader/releases/latest/download/MelonLoader.x64.zip)
+- Extract archive's content into your game: **"steamapps\common\Labyrinthine\"**
+- Download **[GameEnhancer]**(https://github.com/JotechAH/GameEnhancer/releases/latest)
 
 # Patch Notes
 - [**V0.0.6**](https://github.com/JotechAH/GameEnhancer/releases/tag/v0.0.6)

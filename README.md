@@ -24,7 +24,7 @@ This feature allows players to see their location on the in-game map, improving 
 # Glowsticks Enhancer
 ![image](https://github.com/user-attachments/assets/5006ce59-e2c4-498d-a4ed-2b8b75a5b02b)<br>
 For parties with more than four players, this feature adds four additional glowstick colors, making it easier to identify teammates and follow their path.<br>
-### ⚠️ Note ⚠️:
+### Note:
 If you're hosting a game, all players who join must also have the **GameEnhancer** mod installed. Players without the mod will be kicked when they try to use one of the new glowstick colors.
 
 # Installation Instructions

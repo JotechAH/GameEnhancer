@@ -26,7 +26,7 @@ This feature allows players to see their location on the in-game map, improving 
 For parties with more than four players, this feature adds four additional glowstick colors, making it easier to identify teammates and follow their path.<br>
 ⚠️However, if you're hosting a game, all players joining the session must also have the mod installed. Otherwise, when using one of the new glowstick colors, players without the mod will be kicked from the game.⚠️
 
-### Installation Instructions
+# Installation Instructions
 1. **Install MelonLoader:**
    - Download the latest version of [**MelonLoader**](https://github.com/LavaGang/MelonLoader/releases/latest/download/MelonLoader.x64.zip).
    - Extract the contents of the archive into your game directory, typically located at:  

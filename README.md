@@ -19,4 +19,4 @@
 ![image](https://github.com/user-attachments/assets/5006ce59-e2c4-498d-a4ed-2b8b75a5b02b)
 
 # Patch Notes
-# V0.0.6
+- **V0.0.6**

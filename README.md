@@ -13,7 +13,7 @@
 ![{0748DFBA-D106-4682-8B82-BCDC68C8369F}](https://github.com/user-attachments/assets/06ff7890-f1b1-4564-90e3-771d32d77143)
 
 # Map Enhancer
-![image](https://github.com/user-attachments/assets/b8f6861a-1579-4906-bfcb-937f4a13a291)
+![image](https://github.com/user-attachments/assets/49bf7c1f-7298-4443-af2a-adb0753affc5)
 
 # Glowsticks Enhancer
 ![image](https://github.com/user-attachments/assets/5006ce59-e2c4-498d-a4ed-2b8b75a5b02b)

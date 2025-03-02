@@ -12,7 +12,7 @@ GameEnhancer is a comprehensive mod designed to improve and enhance the gameplay
 # Cosmetic Finder
 ![image](https://github.com/user-attachments/assets/5cd556c6-c68a-4733-86e0-2daa7e97dcf6)<br>
 This feature helps players track down cosmetics within the game. It shows whether a cosmetic is present on the current map and whether the player already possesses it. It’s fully configurable to match your preferences.
-<br>Originally created by [**limitbrk**](https://github.com/limitbrk) with the mod [**Labyrinthine-TellMeCosmetics**](https://github.com/limitbrk/Labyrinthine-TellMeCosmetics), I have made slight modifications to enhance its functionality.
+<br><br>Originally created by [**limitbrk**](https://github.com/limitbrk) with the mod [**Labyrinthine-TellMeCosmetics**](https://github.com/limitbrk/Labyrinthine-TellMeCosmetics), I have made slight modifications to enhance its functionality.
 
 # Game Summary
 ![{0748DFBA-D106-4682-8B82-BCDC68C8369F}](https://github.com/user-attachments/assets/06ff7890-f1b1-4564-90e3-771d32d77143)<br>

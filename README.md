@@ -42,4 +42,5 @@ If you're hosting a game, all players who join must also have the **GameEnhancer
 
 
 # Patch Notes
+- [**V0.0.7**](https://github.com/JotechAH/GameEnhancer/releases/tag/v0.0.7)
 - [**V0.0.6**](https://github.com/JotechAH/GameEnhancer/releases/tag/v0.0.6)
